@@ -1,0 +1,18 @@
+[
+{"product_name": "ASUS", "price": "$304.97", "retailer": "Amazon", "link": "https://www.amazon.com/ASUS-DisplayPort-Axial-tech-Technology-Auto-Extreme/dp/B0CVPDY3HN"},
+{"product_name": "GALAX", "price": "$299.97", "retailer": "Amazon", "link": "https://www.amazon.com/GALAX-GeForce-1-Click-Control-Graphics/dp/B0CP3FLVGY"},
+{"product_name": "ZOTAC", "price": "$299.99", "retailer": "Amazon", "link": "https://www.amazon.com/ZOTAC-GeForce-128-bit-Graphics-ZT-D40600H-10M/dp/B0CCST62N5"},
+{"product_name": "GIGABYTE", "price": "$299.99", "retailer": "Amazon", "link": "https://www.amazon.com/GIGABYTE-GeForce-WINDFORCE-Graphics-GV-N4060WF2OC-8GD/dp/B0C8JZNLZL"},
+{"product_name": "msi", "price": "$299.00", "retailer": "Amazon", "link": "https://www.amazon.com/MSI-RTX-4060-Architecture-2X/dp/B0C8BPW1SP"},
+{"product_name": "msi", "price": "$279.99", "retailer": "Amazon", "link": "https://www.amazon.com/MSI-GeForce-RTX-3060-12G/dp/B08WPRMVWB"},
+{"product_name": "GIGABYTE", "price": "$309.99", "retailer": "Amazon", "link": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-N4060GAMING-OC-8GD/dp/B0C8KQRH32"},
+{"product_name": "PNY", "price": "$299.99", "retailer": "Amazon", "link": "https://www.amazon.com/PNY-GeForce-Graphics-DisplayPort-Supports/dp/B0CQ8M6BGH"},
+{"product_name": "GIGABYTE", "price": "$324.99", "retailer": "Amazon", "link": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-N4060AERO-OC-8GD/dp/B0C8K3DFD9"},
+{"product_name": "msi", "price": "$284.99", "retailer": "Amazon", "link": "https://www.amazon.com/MSI-GeForce-Ventus-NVIDIA-Graphics/dp/B08WHJFYM8"},
+{"product_name": "ASUS", "price": "$449.99", "retailer": "Amazon", "link": "https://www.amazon.com/GeForce-DisplayPort-2-5-Slot-Axial-tech-Technology/dp/B0D4C487K8"},
+{"product_name": "msi", "price": "$369.95", "retailer": "Amazon", "link": "https://www.amazon.com/MSI-GeForce-Ventus-Gaming-Graphics/dp/B0C7W8GZMJ"},
+{"product_name": "GIGABYTE", "price": "$289.99", "retailer": "Amazon", "link": "https://www.amazon.com/GIGABYTE-REV2-0-WINDFORCE-GV-N3060GAMING-OC-12GD/dp/B0971BG25M"},
+{"product_name": "msi", "price": "$341.00", "retailer": "Amazon", "link": "https://www.amazon.com/MSI-RTX-4060-Architecture-2X/dp/B0CHC2LQF5"},
+{"product_name": "ZOTAC", "price": "$318.11", "retailer": "Amazon", "link": "https://www.amazon.com/ZOTAC-GeForce-128-bit-Graphics-ZT-D40600G-10L/dp/B0CB1STJK3"},
+{"product_name": "GALAX", "price": "$384.99", "retailer": "Amazon", "link": "https://www.amazon.com/GALAX-GeForce-1-Click-Control-Graphics/dp/B0DPMF5SN2"}
+]
